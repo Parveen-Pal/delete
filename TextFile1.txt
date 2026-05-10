@@ -4,3 +4,5 @@ This is a second line in the file.
 delete
 
 changes
+
+delete
