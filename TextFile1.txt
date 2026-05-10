@@ -5,4 +5,8 @@ delete
 
 changes
 
+<<<<<<< HEAD
 delete
+=======
+gitturtorial
+>>>>>>> 1a6bbce18dbf27c471fe3f5a2b3a8dfed7ce01e7
